@@ -1,0 +1,17 @@
+PROMGEN: Xilinx Prom Generator P.20131013
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+
+promgen -w -p mcs -c FF -o S:\nas_sync\VST\201709_VST-VIDEO-FPGA\codes_AR0230CS_4CH_STM\codes_4CH\DCAM_FPGA\example_FPGA_USB3.0_UVC\FPGA\mcs//FPGA_USB3_UVC_1920x1080x30fps_pattern -s 8192 -u 0000 S:/nas_sync/VST/201709_VST-VIDEO-FPGA/codes_AR0230CS_4CH_STM/codes_4CH/DCAM_FPGA/example_FPGA_USB3.0_UVC/FPGA/fpga_usb3_uvc.bit -spi 
+
+PROM S:\nas_sync\VST\201709_VST-VIDEO-FPGA\codes_AR0230CS_4CH_STM\codes_4CH\DCAM_FPGA\example_FPGA_USB3.0_UVC\FPGA\mcs\FPGA_USB3_UVC_1920x1080x30fps_pattern.prm map: Wed Nov 20 12:48:00 2019
+
+Calculating PROM checksum with fill value ff
+
+Format        Mcs86 (32-bit)
+Size          8192K
+PROM start    0000:0000
+PROM end      007f:ffff
+PROM checksum 78789bac
+
+        Addr1        Addr2                     Date File(s)
+    0000:0000    0007:1587     Nov 20 12:44:00 2019 S:/nas_sync/VST/201709_VST-VIDEO-FPGA/codes_AR0230CS_4CH_STM/codes_4CH/DCAM_FPGA/example_FPGA_USB3.0_UVC/FPGA/fpga_usb3_uvc.bit
